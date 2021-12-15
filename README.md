@@ -1,3 +1,3 @@
 # CPE232_Caballero
-NAME : ALVIN CABALLERO
+NAME : Alvin Caballero
 EMAIL : qacaballero@tip.edu.ph
